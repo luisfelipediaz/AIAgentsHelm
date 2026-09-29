@@ -1,0 +1,10 @@
+{
+  "name": "ai-agents-helm",
+  "version": "0.1.0",
+  "description": "AI Agent's Helm: el timón para trabajar con agentes de IA en modo YOLO de forma segura. Protege las pruebas tras la fase roja del TDD en dos fases y bloquea comandos peligrosos (test/prod, SQL destructivo, evasión de Git, borrado masivo).",
+  "author": {
+    "name": "Luis Felipe Diaz Valbuena"
+  },
+  "homepage": "https://github.com/luisfelipediaz/AIAgentsHelm",
+  "license": "MIT"
+}
